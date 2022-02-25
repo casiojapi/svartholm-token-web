@@ -90,7 +90,7 @@
             "nb_sides": 5
           },
           "image": {
-            "src": "assets/img/dogecoin-300.png",
+            "src": "assets/img/logo-circle-2.png",
             "width": 100,
             "height": 100
           }
